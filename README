@@ -1,1 +1,3 @@
-socket server and client
+<h1>socket server and client</h1>
+The server can afford up to 50 clients in the same time.
+Client can communicate with each other by calling others' name.
